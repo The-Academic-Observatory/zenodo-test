@@ -13,4 +13,6 @@ authors:
       University
     orcid: 'https://orcid.org/0000-0001-8288-5241'
 doi: 10.5281/zenodo.6366691
-license: Apache-2.0
+license: MIT
+version: 2022.03.0
+date-released: '2022-03-18'
